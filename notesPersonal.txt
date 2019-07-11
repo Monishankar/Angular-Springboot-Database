@@ -1,0 +1,2 @@
+To create a component
+ng generate component error --module=app.module
